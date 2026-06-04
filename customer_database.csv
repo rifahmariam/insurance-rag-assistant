@@ -1,0 +1,7 @@
+user_id,phone_number,email,first_name,last_name,dob,insurance_provider
+1,9876543210,john@example.com,John,Smith,1990-05-12,care
+2,9123456789,emma@example.com,Emma,Johnson,1992-08-20,star
+3,9000000001,michael@example.com,Michael,Brown,1988-01-10,niva
+4,9000000002,sophia@example.com,Sophia,Davis,1995-09-15,hdfc
+5,9000000003,james@example.com,James,Wilson,1987-03-22,care
+6,9000000004,olivia@example.com,Olivia,Moore,1993-07-11,star
